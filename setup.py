@@ -82,6 +82,9 @@ setup(
     # Choose your license
     license='MIT',
 
+    # Scripts
+    scripts = ['bin/telepot-do'],
+
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
         # How mature is this project? Common values are
